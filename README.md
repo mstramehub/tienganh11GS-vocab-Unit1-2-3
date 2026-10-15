@@ -6,6 +6,6 @@ Trang học từ vựng và luyện tập của **Ms Trâm english hub**.
 - **Luyện tập:** 30 câu, 7 dạng bài, trộn đề ngẫu nhiên, chấm điểm tự động, quy đổi % và điểm hệ 10.
 - Học sinh chụp khung kết quả gửi giáo viên.
 
-Xem trang: https://mstramehub.github.io/tienganh11gs-vocab-unit1-2-3/
+Xem trang: https://mstramehub.github.io/tienganh11GS-vocab-Unit1-2-3/
 
 Liên hệ: Zalo/HP 079 29 51 529 | 0898 123 696 · 12 Lê Đình Chinh – Quy Nhơn Nam
